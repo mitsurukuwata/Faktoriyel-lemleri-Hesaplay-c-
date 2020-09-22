@@ -1,0 +1,1 @@
+# Faktoriyel-lemleri-Hesaplay-c-
